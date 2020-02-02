@@ -1,0 +1,10 @@
+sanix
+alex
+username
+administrator
+user1
+admin
+pos
+demo
+sql
+db2admin
